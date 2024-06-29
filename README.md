@@ -17,17 +17,11 @@ Step 1: `git clone`
 
 Step 2: `npm install`
 
-IOS
-
-Step 3: `npm run ios_build`
-
-WINDOWS
-
-Step 3: `npm run win_build`
-
-LOCALLY
-
-Step 3: `npm start`
+| Platform | Step 3 Command      |
+|----------|---------------------|
+| IOS      | `npm run ios_build` |
+| WINDOWS  | `npm run win_build` |
+| LOCALLY  | `npm start`         |
 
 ---
 
