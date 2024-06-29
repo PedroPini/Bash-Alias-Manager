@@ -11,8 +11,17 @@
 
 
 
-## Download
-#### :small_orange_diamond: [Download the latest version (Zip)]()
+## How to build the app or run Locally
+
+Step 1: `git clone`
+
+Step 2: `npm install`
+
+| Platform | Step 3 Command      |
+|----------|---------------------|
+| IOS      | `npm run ios_build` |
+| WINDOWS  | `npm run win_build` |
+| LOCALLY  | `npm start`         |
 
 ---
 
