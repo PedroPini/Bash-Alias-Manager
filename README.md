@@ -12,14 +12,23 @@
 
 
 ## How to build the app or run Locally
+
 Step 1: `git clone`
+
 Step 2: `npm install`
+
 IOS
+
 Step 3: `npm run ios_build`
+
 WINDOWS
+
 Step 3: `npm run win_build`
+
 LOCALLY
+
 Step 3: `npm start`
+
 ---
 
 # :bookmark_tabs: &nbsp;Table of contents
