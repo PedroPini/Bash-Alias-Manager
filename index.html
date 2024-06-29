@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.9.3/css/bulma.min.css">
+  <title>Bash Alias Manager</title>
+</head>
+<body>
+  <section class="section">
+    <div class="container">
+      <h1 class="title">Bash Alias Manager</h1>
+      
+      <form id="alias-form" class="mt-3">
+        <div class="columns">
+          <div class="column is-6">
+            <div class="field">
+              <label class="label" for="alias-name">Alias Name</label>
+              <div class="control">
+                <input class="input" type="text" id="alias-name" placeholder="Alias Name" required>
+              </div>
+            </div>
+          </div>
+          <div class="column is-6">
+            <div class="field">
+              <label class="label" for="alias-command">Command</label>
+              <div class="control">
+                <input class="input" type="text" id="alias-command" placeholder="Command" required>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="field">
+          <div class="control">
+            <button class="button is-link" type="submit">Add Alias</button>
+          </div>
+        </div>
+      </form>
+      <h3 class="title has-text-centered mt-5">Alias List</h3>
+      <div id="alias-list" class="mt-3"></div>
+    </div>
+  </section>
+  <script src="renderer.js"></script>
+</body>
+</html>
