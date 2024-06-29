@@ -1,5 +1,6 @@
 # Bash-Alias-Manager
-![Bash Script](https://github.com/PedroPini/Bash-Alias-Manager/blob/main/assets/image.png =300x)
+<img src="https://github.com/PedroPini/Bash-Alias-Manager/blob/main/assets/image.png" width="300" height="300" alt="Bash Script">
+
 
 
 
