@@ -5,8 +5,8 @@
   "scripts": {
     "start": "electron .",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "win_build": "electron-packager . appname--platform=win32 --arch=x64 --overwrite --icon=icons/logo.png --out=release-builds",
-    "ios_build": "electron-packager . appname--platform=darwin --arch=x64 --overwrite --icon=icons/logo.icns --out=release-builds"
+    "win_build": "electron-packager . bashalias-windows=win32 --arch=x64 --overwrite --icon=icons/logo.png --out=release-builds",
+    "ios_build": "electron-packager . bashalias-mac=darwin --arch=x64 --overwrite --icon=icons/logo.icns --out=release-builds"
   },
   "keywords": [],
   "author": "",
