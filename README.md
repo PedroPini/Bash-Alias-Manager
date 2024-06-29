@@ -1,5 +1,6 @@
 # Bash-Alias-Manager
-![Bash Script](https://github.com/PedroPini/Bash-Alias-Manager/assets/20143363/382e1200-8e7b-485a-a34b-abe7ce802978)
+![Bash Script](https://github.com/PedroPini/Bash-Alias-Manager/blob/main/assets/image.png =300x)
+
 
 
 
