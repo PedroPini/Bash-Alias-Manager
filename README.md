@@ -1,4 +1,4 @@
-<img src="https://github.com/PedroPini/Bash-Alias-Manager/assets/20143363/6a995116-2183-44a9-869c-2c3f9a4f951c" width="150" height="150" alt="Bash Script"> 
+# <img src="https://github.com/PedroPini/Bash-Alias-Manager/assets/20143363/6a995116-2183-44a9-869c-2c3f9a4f951c" width="150" height="150" alt="Bash Script"> 
 # BashAlias
 
 
